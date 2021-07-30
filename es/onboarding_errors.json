@@ -1,0 +1,9 @@
+{
+	"name_empty": "El nombre no puede estar vacío, ¿cómo te llamaremos?",
+	"name_max_50_characters": "Escribe máximo 50 carácteres",
+	"name_min_3_characters": "Escribe minímo 3 carácteres",
+	"name_max_30_characters": "Escribe máximo 30 carácteres",
+	"name_company_empty": "El nombre no puede estar vacío, ¿dónde trabajas?",
+	"team_name_empty": "El nombre del equipo no puede estar vacío",
+	"other_area_empty": "Por favor escribe tu área, para darte un mejor servicio"
+}

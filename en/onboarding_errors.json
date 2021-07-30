@@ -1,0 +1,9 @@
+{
+	"name_empty": "Name can't be empty, How are we going to call you?",
+	"name_max_50_characters": "Type maximum 50 characters",
+	"name_min_3_characters": "Type minimum 3 characters",
+	"name_max_30_characters": "Type maximum 30 characters",
+	"name_company_empty": "Company can't be empty, Where do you work?",
+	"team_name_empty": "Team name can't be empty",
+	"other_area_empty": "Please type your area, for an improved service"
+}

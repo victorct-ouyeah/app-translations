@@ -1,0 +1,4 @@
+{
+  "added_card_responsible": "Added {user.name} as responsible ", - kanban.json
+  "removed_card_responsible": "Removed {user.name} as responsible ", - kanban.json
+}

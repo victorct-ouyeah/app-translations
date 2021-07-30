@@ -1,0 +1,24 @@
+{
+    "actions": {
+        "kanban_card_due_date_expired": "expiró",
+        "kanban_card_due_date_will_expire": "expirará",
+        "okr_no_progress_in_time": "sin progreso desde",
+        "team_user_changed_role": "te cambió el rol en el equipo",
+        "kanban_card_changed_lane": "movió la tarjeta",
+        "kr_key_result_progress_advanced": "hizo progreso en el resultado clave",
+        "kr_key_result_progress_decreased": "hizo retroceso en el resultado clave",
+        "team_invitation_accepted": "aceptó la invitación para unirse al equipo",
+        "kanban_card_responsible_added": "te agregó como responsable de la tarjeta",
+        "kanban_card_responsible_removed": "te eliminó como responsable de la tarjeta",
+        "team_user_removed": "te eliminó del equipo",
+        "team_user_added": "te agregó al equipo",
+        "okr_progress_completed": "completó el OKR",
+        "kanban_card_comment_user_tagged_comment": "te etiquetó en el comentario"
+    },
+    "notifications": "Notificaciones",
+    "mark_as_read": "Marcar como leídas",
+    "see_more": "Ver más",
+    "titles":{
+        "in_the_card": "En la tarjeta"
+    }
+}
